@@ -36,7 +36,7 @@ Ref.: [https://www.ibm.com/docs/en/aspera-http-gateway/2.3](https://www.ibm.com/
         Download [ascp](./ascp)      
 
         cp ascp /opt/aspera/httpgateway/aspera
-        chmod 755 /opt/aspera/httpgateway/aspera
+        chmod 755 /opt/aspera/httpgateway/aspera/ascp
 
 
 4. Restart the HTTP Gateway.  
