@@ -33,8 +33,8 @@ Ref.: [https://www.ibm.com/docs/en/aspera-http-gateway/2.3](https://www.ibm.com/
 
 3. Additional Step needed for HTTP Gateway version 2.3.1 and older.   
         The ascp binary included in the Gateway is pretty old and may not support some of the newer algorithms. Hence use the ascp binary attached here.   
+        `Download [ascp](./ascp)`   
 
-        Download ![ascp](./ascp)
         cp ascp /opt/aspera/httpgateway/aspera
         chmod 755 /opt/aspera/httpgateway/aspera
 
