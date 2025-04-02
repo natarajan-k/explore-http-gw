@@ -1,5 +1,8 @@
 # HTTP Gateway
 
+Explore using HTTP-Gateway to transfer files to Faspex5/HSTS.    
+To see good results, the HTTP Gateway should be installed close to the user computer. Otherwise, you can still see functionality but not performance. 
+
 Diagram below shows a typical setup of HTTP gateway with Faspex and HSTS (with and without HTTP Gateway.   
 ![](images/image2.jpg)   
 
